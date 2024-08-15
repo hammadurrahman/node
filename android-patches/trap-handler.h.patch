@@ -21,6 +21,6 @@
 -#else
  #define V8_TRAP_HANDLER_SUPPORTED false
 -#endif
- 
+ npm install package-name
  // Setup for shared library export.
  #if defined(BUILDING_V8_SHARED) && defined(V8_OS_WIN)
